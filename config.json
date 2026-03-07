@@ -1,0 +1,13 @@
+{
+  "multiTask": true,
+  "taskCount": 5,
+  "proxyAddress": "",
+  "messageTemplate": "[月亮]",
+  "hitokotoTypes": [
+    
+  ],
+  "happyNewYear": {
+      "enabled": true,
+      "messageTemplate": ""
+  }
+}
