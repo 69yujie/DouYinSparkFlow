@@ -4,4 +4,3 @@ __pycache__/
 chrome/
 logs/
 .DS_Store
-usersData.json
